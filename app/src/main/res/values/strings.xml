@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">oop shopping Demo</string>
+    <string name="splash_text">  OOP\nShopping</string>
+    
+    <!-- Error Messages -->
+    <string name="NoInternet">請確認網路連線</string>
+    <string name="Error500">出錯啦</string>
+    <string name="BlankError">"不可為空白"</string>
+    <string name="EmailError">"Email不符合格式"</string>
+    <string name="EmailExistsError">"此信箱已註冊"</string>
+    <string name="InvalidUser">信箱或密碼錯誤</string>
+    <string name="retry">再試一次</string>
+
+    <!-- Bottom Navigation Titles -->
+    <string name="TitleHome">主頁</string>
+    <string name="TitleCategories">分類</string>
+    <string name="TitleShortlist">Wish List</string>
+    <string name="TitleAccount">帳號</string>
+
+    <!-- Sort / Filter -->
+    <string name="sort">分類</string>
+    <string name="filter">篩選</string>
+    <string name="filters">篩選條件</string>
+    <string name="apply">使用</string>
+    <string name="clear">重設</string>
+
+    <!-- Product Detail Page -->
+    <string name="buy">購買</string>
+    <string name="cart">加入購物車</string>
+    <string name="cart_empty">購物車是空的</string>
+    <string name="add_success">成功加入</string>
+    <string name="item_exists">此商品已存在</string>
+    <string name="color_select">請選擇顏色</string>
+    <string name="size_select">請選擇規格</string>
+    <string name="item_add_wishlist">Item Added To Wish List</string>
+    <string name="item_rem_wishlist">Item Removed From Wish List</string>
+
+    <!-- Sign In / Sign Up -->
+    <string name="signin">登入</string>
+    <string name="signup">註冊</string>
+    <string name="name">英文姓名</string>
+    <string name="email">Email 信箱</string>
+    <string name="password">密碼</string>
+    <string name="mobile">手機號碼</string>
+
+    <!-- Shopping Cart Page -->
+    <string name="place_order">下訂單</string>
+    <string name="shopping_cart">購物車</string>
+
+    <!-- My Orders Page -->
+    <string name="my_orders">我的訂單</string>
+</resources>

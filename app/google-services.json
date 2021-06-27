@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "66109237012",
+    "firebase_url": "https://selling-oop-default-rtdb.firebaseio.com",
+    "project_id": "selling-oop",
+    "storage_bucket": "selling-oop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66109237012:android:1475acfc725c3f2ad7c401",
+        "android_client_info": {
+          "package_name": "com.example.firebaseupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66109237012-secpl4h3nc5ehqvqqp3aaora5ec7vl5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2fJ2KIhff_r59QjHCO9D4L6salkUvAoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66109237012-secpl4h3nc5ehqvqqp3aaora5ec7vl5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66109237012:android:a6834965aca5975cd7c401",
+        "android_client_info": {
+          "package_name": "com.example.onlineselling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66109237012-secpl4h3nc5ehqvqqp3aaora5ec7vl5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2fJ2KIhff_r59QjHCO9D4L6salkUvAoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66109237012-secpl4h3nc5ehqvqqp3aaora5ec7vl5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66109237012:android:7eb2b9dc64797f08d7c401",
+        "android_client_info": {
+          "package_name": "com.preethzcodez.ecommerceexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66109237012-secpl4h3nc5ehqvqqp3aaora5ec7vl5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2fJ2KIhff_r59QjHCO9D4L6salkUvAoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66109237012-secpl4h3nc5ehqvqqp3aaora5ec7vl5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
